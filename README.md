@@ -14,7 +14,7 @@ Here is the QR code for our app:
 
 ## Snapshots:
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;">
     <img src="home-page.png" alt="Home Page" width="250" style="margin-right: 10px;">
     <img src="chat.png" alt="Chat" width="250">
 </div>
