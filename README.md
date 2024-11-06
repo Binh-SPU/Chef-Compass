@@ -8,7 +8,7 @@ Chef’s Compass also allows you to note down your recipe. You will have the opt
 
 [Here is the production video of our software!](https://youtu.be/5-yikacxQUU)
 
-Here is the QR code for our app:
+Here is the QR code for our app **[Deprecated because we have shut down Amazon RDS endpoint due to cost and this project has finished]**:
 
 ![](app.png)
 
